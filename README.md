@@ -1,4 +1,4 @@
-# flutter_d_expenses_app
+# D-Exp
 
 A Fluter Daily Expenses App Project
 

@@ -1,16 +1,7 @@
-# udemy_expenses_app
+# flutter_d_expenses_app
 
-Udemy Expenses Application Project
+A Fluter Daily Expenses App Project
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Very simple daily expenses app built using flutter
